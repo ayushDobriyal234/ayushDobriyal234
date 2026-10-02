@@ -94,3 +94,9 @@
 - 📸 Instagram: [@ayush_dobriyal77](https://www.instagram.com/ayush_dobriyal77/)
 
 <p align="center"><i>Crafting clean UI & scalable backend systems ⚡</i></p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayushDobriyal234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushDobriyal234&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
